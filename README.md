@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Chat and Project Management Application**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript,React,Vue,Dart Backend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
